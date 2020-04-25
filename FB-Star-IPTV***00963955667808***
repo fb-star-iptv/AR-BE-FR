@@ -582,6 +582,30 @@ http://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/playlist.m3u8?che
 http://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="OM" tvg-logo="http://part.gov.om/part/images/oman_live.png" group-title="Oman",Oman TV Mubashir
 http://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 type="stream" channelId="-1" group="Bein Sport", Bein Sport 1 HD
+https://2d01.janjua.pw:8088/live/beinsportdsew1q/playlist.m3u8?id=97692&wowzasessionid=576355151&pk=cda98ff282e506bdb0f62998887747d58243a1b01a153380d4f92716e4da9680
+#EXTINF:0 type="stream" channelId="-1" group="Bein Sport", Bein Sport  2 HD
+https://2d01.janjua.pw:8088/live/beinsportsh2hbdgh/playlist.m3u8?id=97693&wowzasessionid=621743678&pk=cda98ff282e506bdb0f62998887747d58243a1b01a153380d4f92716e4da9680
+#EXTINF:0 type="stream" channelId="-1" group="Bein Sport", Bein Sport 3 HD
+https://2d02.janjua.pw:8088/live/beinsportsh2gdbh/playlist.m3u8?id=97677&wowzasessionid=3760753465&pk=cda98ff282e506bdb0f62998887747d58243a1b01a153380d4f92716e4da9680
+#EXTINF:0 type="stream" channelId="-1" group="Bein Sport", Bein Sport 5 HD
+https://2202.janjua.pw:8088/live/bensports5y/playlist.m3u8?id=97628&wowzasessionid=674226101&pk=cda98ff282e506bdb0f62998887747d58243a1b01a153380d4f92716e4da9680
+#EXTINF:0 type="stream" channelId="-1" group="Bein Sport", Bein Sport 6 HD
+https://2d02.janjua.pw:8088/live/beinsportsyd6y/playlist.m3u8?id=97352&wowzasessionid=3596486417&pk=cda98ff282e506bdb0f62998887747d58243a1b01a153380d4f92716e4da9680
+#EXTINF:0 type="stream" channelId="-1" group="Bein Sport", Bein Sport 7 HD
+https://2204.janjua.pw:8088/live/beinsortyd7yg/playlist.m3u8?id=97602&wowzasessionid=3023156330&pk=cda98ff282e506bdb0f62998887747d58243a1b01a153380d4f92716e4da9680
+#EXTINF:0 type="stream" channelId="-1" group="Bein Sport", Bein Sport 8 HD
+https://2202.janjua.pw:8088/live/beinsporysudh8h/playlist.m3u8?id=97603&wowzasessionid=3146501876&pk=cda98ff282e506bdb0f62998887747d58243a1b01a153380d4f92716e4da9680
+#EXTINF:0 type="stream" channelId="-1" group="Bein Sport", Bein Sport 9 HD
+https://2d04.janjua.pw:8088/live/beinsporyu9di/playlist.m3u8?id=97604&wowzasessionid=37583096&pk=cda98ff282e506bdb0f62998887747d58243a1b01a153380d4f92716e4da9680
+#EXTINF:0 type="stream" channelId="-1" group="Bein Sport", Bein Sport 10 HD
+https://2d04.janjua.pw:8088/live/beinosi10sio/playlist.m3u8?id=97816&wowzasessionid=3064991902&pk=cda98ff282e506bdb0f62998887747d58243a1b01a153380d4f92716e4da9680
+#EXTINF:0 type="stream" channelId="-1" group="Bein Sport", Bein Sport 11 HD
+https://2d03.janjua.pw:8088/live/beinosi10sio/playlist.m3u8?id=97816&wowzasessionid=450547906&pk=cda98ff282e506bdb0f62998887747d58243a1b01a153380d4f92716e4da9680
+#EXTINF:0 type="stream" channelId="-1" group="Bein Sport", Bein Sport News
+http://iptv8.premium-stv.com:2052/pro2arab@aradr/ghh@GT@jjGYpipi/2344?checkedby:iptvcat.com
+#EXTINF:0 type="stream" channelId="-1" group="Bein Sport" , Bein Sport HD
+http://iptv8.premium-stv.com:2052/pro2arab@aradr/ghh@GT@jjGYpipi/2343?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/iWXUmje.jpg" group-title="Belgium",ATV
 http://api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/YjKqWru.png" group-title="Belgium",BX1
