@@ -1,5 +1,7 @@
 #EXTM3U
 #PLAYLIST:FB STAR
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Syria",RT Arabic (Russia Today)
+https://rt-arab.secure.footprint.net/1104_2500Kb.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="SY" tvg-logo="https://i.imgur.com/MWeuUTA.png" group-title="Syria",Al Khabar
 http://95.170.215.109/hls/m3u8/Al-Khabar-Backup.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="SY" tvg-logo="https://i.imgur.com/xBcBG2z.png" group-title="Syria",Halab Today TV
