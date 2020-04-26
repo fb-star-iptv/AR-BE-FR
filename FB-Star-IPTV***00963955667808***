@@ -1,5 +1,7 @@
 #EXTM3U
 #PLAYLIST:FB STAR
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 Arabic
+http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Syria",RT Arabic (Russia Today)
 https://rt-arab.secure.footprint.net/1104_2500Kb.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="SY" tvg-logo="https://i.imgur.com/MWeuUTA.png" group-title="Syria",Al Khabar
