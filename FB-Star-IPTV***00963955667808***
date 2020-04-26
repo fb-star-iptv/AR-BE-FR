@@ -26,8 +26,6 @@ https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8?ch
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/chunklist_w693439211_b346000_slAR.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="SY" tvg-logo="https://i.imgur.com/5EnxvkU.png" group-title="Syria",Syria Drama
 http://livecdnh2.tvanywhere.ae/hls/syria_drama/04.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="SY" tvg-logo="https://i.imgur.com/5EnxvkU.png" group-title="Syria",Syria Drama
-http://82.137.248.16:1935/Drama/stream31122019/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="SY" tvg-logo="https://i.imgur.com/PrXBgQG.png" group-title="Syria",Syrian Education TV
 http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_edu&checkedby:iptvcat.com
 #EXTINF:0 tvg-country="SY" tvg-logo="https://i.imgur.com/PrXBgQG.png" group-title="Syria",Syrian Education TV
