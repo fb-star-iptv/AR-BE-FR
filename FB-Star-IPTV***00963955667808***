@@ -1,9 +1,5 @@
 #EXTM3U
 #PLAYLIST:FB STAR
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 Arabic
-http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Syria",RT Arabic (Russia Today)
-https://rt-arab.secure.footprint.net/1104_2500Kb.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="SY" tvg-logo="https://i.imgur.com/MWeuUTA.png" group-title="Syria",Al Khabar
 http://95.170.215.109/hls/m3u8/Al-Khabar-Backup.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="SY" tvg-logo="https://i.imgur.com/xBcBG2z.png" group-title="Syria",Halab Today TV
@@ -44,6 +40,10 @@ https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/chunk
 http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_ugarit&checkedby:iptvcat.com
 #EXTINF:0 tvg-country="SY" tvg-logo="https://i.imgur.com/4x2uwpx.png" group-title="Syria",Ugarit TV
 http://82.137.248.16:1935/Ugarit/stream31122019/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 Arabic
+http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="News",RT Arabic (Russia Today)
+https://rt-arab.secure.footprint.net/1104_2500Kb.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="LB" tvg-logo="https://i.imgur.com/PmX9Ca3.png" group-title="Lebanon",Aghani
 http://livecdnh1.tvanywhere.ae/hls/aghani/04.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="LB" tvg-logo="https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/38/d3/ff/38d3ff8bbb366efe85df293affd5e8f3.PNG" group-title="Lebanon",Al Jadeed
