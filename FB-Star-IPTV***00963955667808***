@@ -44,7 +44,7 @@ http://82.137.248.16:1935/Ugarit/stream31122019/playlist.m3u8?checkedby:iptvcat.
 http://livecdnh1.tvanywhere.ae/hls/aghani/04.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="LB" tvg-logo="https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/38/d3/ff/38d3ff8bbb366efe85df293affd5e8f3.PNG" group-title="Lebanon",Al Jadeed
 http://livecdnh3.tvanywhere.ae/hls/jadeed/02.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="LB;US" tvg-logo="" group-title="Undefined",Al Jadeed,Al Jadeed (Opt-1)
+#EXTINF:0 tvg-country="LB;US" tvg-logo="" group-title="Lebanon",Al Jadeed,Al Jadeed (Opt-1)
 http://livecdnh3.tvanywhere.ae/hls/jadeed/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="LB" tvg-logo="https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/38/d3/ff/38d3ff8bbb366efe85df293affd5e8f3.PNG" group-title="Lebanon",Al Jadeed
 http://livecdnh3.tvanywhere.ae/hls/jadeed/04.m3u8?checkedby:iptvcat.com
@@ -184,7 +184,7 @@ https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist.m3u8?chec
 https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/huebvDt.png" group-title="Iraq",MBC Iraq
 http://95.170.215.109/hls/m3u8/MBC-IRAQ-Backup.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IQ;MY" tvg-logo="" group-title="Music;Iraq",Music Al Remas,MUSIC ALREMAS (1280×720)
+#EXTINF:0 tvg-country="IQ;MY" tvg-logo="" group-title="Iraq",Music Al Remas,MUSIC ALREMAS (1280×720)
 http://95.170.215.109/hls/m3u8/M-Alremas-Backup.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/ApjPInT.png" group-title="Iraq",Music Al Haneen
 http://95.170.215.109/hls/m3u8/M-alhanen-Backup.m3u8?checkedby:iptvcat.com
@@ -194,7 +194,7 @@ https://svs.itworkscdn.net/rudawlive/rudawlive.smil/rudawtv_chunks.m3u8
 http://116.203.71.169/hls/stream1.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IQ" tvg-logo="https://www.zagrosnews.net/sites/default/files/zagros-logo-01_1.png" group-title="Iraq",Zagros
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="Sport;Emirates",Abu Dhabi Sports,Abu Dhabi Sports 1,Abu Dhabi Sports 1 HD (Opt-1),Abu Dhabi Sports1
+#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="Emirates",Abu Dhabi Sports,Abu Dhabi Sports 1,Abu Dhabi Sports 1 HD (Opt-1),Abu Dhabi Sports1
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1&checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/U6XDpXY.png" group-title="Emirates",Abu Dhabi
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports3&checkedby:iptvcat.com
@@ -224,7 +224,7 @@ http://livecdnh1.tvanywhere.ae/hls/cin1/01.m3u8?checkedby:iptvcat.com
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione&checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Emirates",Dubai Racing
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AE;US" tvg-logo="" group-title="Sport;Emirates",Dubai Racing
+#EXTINF:0 tvg-country="AE;US" tvg-logo="" group-title="Emirates",Dubai Racing
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Emirates",Dubai Racing
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8?checkedby:iptvcat.com
@@ -738,7 +738,7 @@ http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8?checkedby:iptvcat.co
 http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/ZEA3az8.png" group-title="France",Grand Lille TV
 https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",Grand Lille TV HD
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="France",Grand Lille TV HD
 http://str81.creacast.com/grandlilletv/high/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/tzurFum.png" group-title="France",Holygod TV Europe & Middle East
 https://dcunilive47-lh.akamaihd.net/i/dclive_1@739146/index_150.m3u8?checkedby:iptvcat.com
