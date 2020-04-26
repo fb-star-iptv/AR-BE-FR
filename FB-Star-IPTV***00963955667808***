@@ -248,9 +248,9 @@ http://livecdnh2.tvanywhere.ae/hls/mbc1/04.m3u8?checkedby:iptvcat.com
 http://livecdnh2.tvanywhere.ae/hls/mbc1/03.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="Emirates",MBC,Roya
 http://livecdnh2.tvanywhere.ae/hls/mbc1/02.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MY;AE" tvg-logo="" group-title="Movies;Emirates",MBC 2 (1280×720),MBC 2 HD
+#EXTINF:0 tvg-country="MY;AE" tvg-logo="" group-title="Emirates",MBC 2 (1280×720),MBC 2 HD
 http://livecdnh3.tvanywhere.ae:80/hls/mbc2/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AE;US" tvg-logo="" group-title="Movies;Emirates",MBC 2 (HD),MBC 2 HD
+#EXTINF:0 tvg-country="AE;US" tvg-logo="" group-title="Emirates",MBC 2 (HD),MBC 2 HD
 http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="Emirates",MBC 2 HD
 http://livecdnh3.tvanywhere.ae:80/hls/mbc2/05.m3u8?checkedby:iptvcat.com
@@ -278,7 +278,7 @@ http://livecdnh3.tvanywhere.ae/hls/mbc4/04.m3u8?checkedby:iptvcat.com
 http://livecdnh3.tvanywhere.ae/hls/mbc4/03.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="MY;AE" tvg-logo="" group-title="Emirates",MBC 4,MBC 4 (1280×720)
 http://livecdnh3.tvanywhere.ae:80/hls/mbc4/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="Movies;Emirates",MBC Action (HD),MBC Action HD
+#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="Emirates",MBC Action (HD),MBC Action HD
 http://livecdnh3.tvanywhere.ae/hls/mbcaction/05.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Emirates",MBC Action HD
 http://livecdnh3.tvanywhere.ae:80/hls/mbcaction/index.m3u8?checkedby:iptvcat.com
