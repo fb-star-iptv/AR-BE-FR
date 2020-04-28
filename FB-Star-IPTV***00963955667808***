@@ -528,6 +528,8 @@ http://95.170.215.107/hls/m3u8/KSA-Sport2-Bakup.m3u8?checkedby:iptvcat.com
 https://edge-1192-ch-gv.filmon.com/live/1781.high.stream/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/5p2yUBb.png" group-title="Saudi",Makkah TV
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/wp5Db3g.png" group-title="Saudi",Rotana zaman
+http://livecdnh3.tvanywhere.ae/hls/rotclassic/04.m3u8
 #EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/wp5Db3g.png" group-title="Saudi",Rotana Aflam
 http://livecdnh3.tvanywhere.ae/hls/rotaflam/04.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/ZMXEFd1.png" group-title="Saudi",Rotana Cinema
